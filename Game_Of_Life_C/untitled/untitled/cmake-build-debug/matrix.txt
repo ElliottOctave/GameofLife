@@ -1,0 +1,80 @@
+5 
+5 
+x x x x x 
+x x A x x 
+x x A x x 
+x x A x x 
+x x x x x 
+
+x x x x x 
+x x x x x 
+x A A A x 
+x x x x x 
+x x x x x 
+
+x x x x x 
+x x A x x 
+x x A x x 
+x x A x x 
+x x x x x 
+
+x x x x x 
+x x x x x 
+x A A A x 
+x x x x x 
+x x x x x 
+
+x x x x x 
+x x A x x 
+x x A x x 
+x x A x x 
+x x x x x 
+
+x x x x x 
+x x x x x 
+x A A A x 
+x x x x x 
+x x x x x 
+
+x x x x x 
+x x A x x 
+x x A x x 
+x x A x x 
+x x x x x 
+
+x x x x x 
+x x x x x 
+x A A A x 
+x x x x x 
+x x x x x 
+
+x x x x x 
+x x A x x 
+x x A x x 
+x x A x x 
+x x x x x 
+
+x x x x x 
+x x x x x 
+x A A A x 
+x x x x x 
+x x x x x 
+
+x x x x x 
+x x A x x 
+x x A x x 
+x x A x x 
+x x x x x 
+
+x x x x x 
+x x x x x 
+x A A A x 
+x x x x x 
+x x x x x 
+
+x x x x x 
+x x A x x 
+x x A x x 
+x x A x x 
+x x x x x 
+
